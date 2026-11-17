@@ -6,11 +6,8 @@
 ---
 
 ### 🚀 What I'm Building
-- **[Agentmetry](https://github.com/blitzcrieg1/agentic-os)**: The open-source endpoint flight recorder and SIEM for AI agent tool-use. It intercepts, hashes, and audits tool calls at the IDE lifecycle boundary with built-in DLP and sequence detection.
-
-### 🏆 Certifications
-- **[Certification Name 1]** (e.g., AWS Certified Security Specialty)
-- **[Certification Name 2]** (e.g., CISSP / CompTIA Security+)
+- **[Agentmetry](https://github.com/blitzcrieg1/agentmetry)**: open-source, local-first security for AI coding agents. It records the tool calls that agent hooks and wrapped MCP servers report, flags risky sequences mapped to MITRE ATT&CK and ATLAS, keeps a hash-chained audit trail you can verify, and forwards events to the SIEM you already run. `pip install agentmetry` · [agentmetry.ai](https://agentmetry.ai/)
+- **[Agentmetry anchors](https://github.com/blitzcrieg1/agentmetry-anchors)**: published Merkle roots of Agentmetry trails, so a compromised machine cannot quietly rewrite its own history.
 
 ### 🛠️ Tech Stack
 <p>
@@ -22,8 +19,11 @@
 </p>
 
 ### 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://agentmetry.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/agentmetry.ai-006DAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="agentmetry.ai" />
+</a>
+<a href="https://pypi.org/project/agentmetry/" target="_blank">
+  <img src="https://img.shields.io/badge/PyPI-agentmetry-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="agentmetry on PyPI" />
 </a>
 
 ### 📈 GitHub Stats
